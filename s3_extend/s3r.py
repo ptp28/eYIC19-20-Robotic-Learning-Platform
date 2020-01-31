@@ -1,3 +1,11 @@
+ """
+
+                    * Project Name: 	Robotic Learning Platform
+                    * Author List: 		Forked for github. Changes made in dependent files.
+                    * Filename: 		s3r.py
+                    */
+"""
+
 import atexit
 import signal
 import subprocess

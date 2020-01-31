@@ -1,8 +1,8 @@
 """
 
                     * Project Name: 	e-Yantra Project
-                    * Author List: 		Akash Rasal, e-Yantra Team
-                    * Filename: 		rpi_import.py
+                    * Author List: 		Akash Rasal, Parth Parikh.
+                    * Filename: 		ezGPIO.py
                     * Functions: 		readUltrasonic(GPIO_TRIGGER , GPIO_ECHO), readSound(gpioPIN), readPIR(gpioPIN), readFire(gpioPIN),
                                         readPhototransistor(gpioPIN), readTemp(gpioPIN), writeServo(pinNO,Degree), toggleLED(pinNO,state),
                                         toggleLED(pinNO,state), toggleBuzzer(pinNO,state), toggleBuzzer(pinNO,state)

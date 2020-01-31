@@ -1,6 +1,29 @@
 #!/usr/bin/env python3
 
-"""
+ """
+
+                    * Project Name: 	Robotic Learning Platform.
+                    * Author List: 		Akash Rasal, Parth Parikh.
+                    * Filename: 		rpi_gateway.py
+                    * Functions: 		
+                    init_pins_dictionary,
+                    digital_servo,
+                    digital_write,
+                    lcd_write,
+                    lcd_clear,
+                    temperature,
+                    disable_digital_reporting,
+                    i2c_read,
+                    i2c_write,
+                    pwm_write,
+                    read_sonar,
+                    set_mode_analog_input,
+                    set_mode_digital_input,
+                    set_mode_pwm,
+                    read_sonar
+
+                 
+
 This  is the Python Banyan GUI that communicates with
 the Raspberry Pi Banyan Gateway
 Python Banyan is free software; 
