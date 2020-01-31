@@ -1,0 +1,15 @@
+/*
+                    * Project Name:     Robotic Learning Platform
+                    * Author List:      This file is In-built.
+                    * Filename:         blocks-only.css
+                    * Functions:        -
+                    * Global Variables: NONE
+                    *
+*/
+
+.controls {
+    position: absolute;
+    z-index: 2;
+    top: 10px;
+    right: 15px;
+}
